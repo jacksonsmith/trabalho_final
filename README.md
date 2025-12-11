@@ -1,8 +1,8 @@
-## 🏆 Projeto Final: Engenharia de Qualidade para Aplicativos Mobile
+# 🏆 Projeto Final: Engenharia de Qualidade para Aplicativos Mobile
 
 Este documento estabelece os **requisitos, entregáveis e critérios de avaliação** para o Projeto Final da disciplina de Engenharia de Qualidade Avançada – Foco Mobile.
 
-O objetivo é que os grupos explorem um **tópico moderno e complexo de QA Mobile**, aplicando conceitos e ferramentas de forma prática e reflexiva, demonstrando domínio de uma **arquitetura de QA de alto nível**.
+O objetivo é que os grupos explorem um **tópico moderno e complexo de QA Mobile**, atuando como consultores técnicos para demonstrar o domínio de uma **arquitetura de QA de alto nível**.
 
 ---
 
@@ -11,25 +11,25 @@ O objetivo é que os grupos explorem um **tópico moderno e complexo de QA Mobil
 | Item | Detalhe |
 | :--- | :--- |
 | **Duração** | 1 Semana de Projeto (Exigência: **8-10 horas de dedicação por membro**). |
-| **Entrega** | Relatório Executivo (PDF) + Artefatos Técnicos (Código/Demonstração) + Apresentação (Slides). |
-| **Objetivo** | Demonstrar conhecimento aprofundado e capacidade de aplicação prática do tema escolhido, com foco em uma **arquitetura de QA moderna e escalável**. |
-| **Tópico** | [Tópicos](https://docs.google.com/spreadsheets/d/1mwFrDXW_IOEGUI_am_KuJoRqLjra9bn3K45mTqRZZkA/edit?gid=1933368385#gid=1933368385) |
+| **Entrega** | Relatório Executivo (PDF) + Artefatos Técnicos (Código/POC) + Apresentação (Slides). |
+| **Objetivo** | Demonstrar capacidade de análise crítica e aplicação técnica do tema escolhido, validando hipóteses com dados. |
+| **Tópico** | [Tópicos Disponíveis](https://docs.google.com/spreadsheets/d/1mwFrDXW_IOEGUI_am_KuJoRqLjra9bn3K45mTqRZZkA/edit?gid=1933368385#gid=1933368385) |
 
 ---
 
 ### 2. 📅 Estrutura e Cronograma Sugerido (1 Semana)
 
-Este cronograma é um guia para otimizar o tempo e garantir entregas de alta qualidade, dada a complexidade do projeto.
+Este cronograma é um guia para otimizar o tempo e garantir entregas de alta qualidade.
 
 | Dia Sugerido | Foco da Atividade | Entregável Parcial/Resultado |
 | :--- | :--- | :--- |
 | **Dia 1** | Pesquisa, Alinhamento e Definição de Escopo | Documento interno com **"Problema/Hipótese de Solução"** e divisão de tarefas. |
-| **Dia 2-4** | **Desenvolvimento e Execução Técnica (Mão na Massa)** | Criação do Código/Script/Mockup/Demonstração e coleta de resultados. |
-| **Dia 5** | Consolidação de Resultados e Relatório Executivo | Escrita do Relatório (1 página) e **análise crítica dos aprendizados**. |
-| **Dia 6** | Preparação da Apresentação | Criação e ensaio da Apresentação (10-12 min), focando no *storytelling* dos resultados. |
+| **Dia 2-4** | **Desenvolvimento e Execução Técnica (Mão na Massa)** | Criação da POC (Prova de Conceito), Scripts e coleta de métricas/evidências. |
+| **Dia 5** | Consolidação de Resultados e Relatório Executivo | Escrita do Relatório seguindo o template oficial e **análise crítica dos aprendizados**. |
+| **Dia 6** | Preparação da Apresentação | Criação e ensaio da Apresentação (10-12 min), focando no *storytelling* dos dados. |
 | **Dia 7** | **Revisão Final e Entrega** | Submissão de todos os artefatos nos canais indicados. |
 
-> **Nota:** É crucial que o grupo compreenda a importância da fase de *Setup* e *Análise*, não apenas da execução. 
+> **Nota:** É crucial que o grupo compreenda a importância da fase de *Análise e Comparação*, não apenas da execução do código.
 
 ---
 
@@ -39,29 +39,45 @@ Todos os grupos devem entregar 3 artefatos essenciais:
 
 #### 3.1. Apresentação (10 – 12 minutos)
 
-A apresentação deve ser clara, concisa e focada em **demonstrar resultados e *insights***.
+A apresentação deve ser executiva, concisa e focada em **demonstrar resultados e *insights***, não apenas ler slides.
 
-* **Estrutura Recomendada:**
-    1.  **Problema & Contexto (O Que?)**: Qual desafio moderno de QA Mobile o grupo atacou.
-    2.  **Ferramentas & Conceitos (Como?)**: Quais tecnologias e arquiteturas foram usadas (Ex: Appium, Detox, Jest, Grafana, Mocks).
-    3.  **Demonstração & Resultados (Prova!)**: Mostrar a execução prática e os dados obtidos.
-    4.  **Análise Crítica & Aprendizados (O Ponto Alto)**: O que funcionou, o que falhou, e por que.
-    5.  **Boas Práticas/Conclusão (Recomendação)**: Qual a sugestão para uma equipe de QA de alto nível.
+* **Regras de Tempo:** Estritamente **10 a 12 minutos**. O grupo será interrompido ao exceder o limite.
+* **Artefato:** Slides em PDF entregues junto aos demais arquivos.
+* **Estrutura Obrigatória da Apresentação:**
+    1.  **O Problema (Contexto):** Qual dor de mercado vocês estão atacando?
+    2.  **A Solução (Arquitetura):** Explicação técnica da abordagem escolhida.
+    3.  **A Prova (Resultados):** Demonstração prática e dados comparativos.
+    4.  **O Veredito (Análise Crítica):** Recomendações finais de engenharia (Vale a pena usar?).
 
-* **Regras de Tempo:** Estritamente **10 a 12 minutos**. O grupo será interrompido ao exceder o limite, simulando um ambiente executivo.
-* **Profundidade:** Deve ir além da teoria, focando em **"Como isso é feito em uma empresa de alto nível?"** (Aplicações em escala).
-* **Artefato:** O material (slides em PDF) deve ser entregue junto aos demais artefatos.
+#### 3.2. Relatório Executivo Analítico (PDF)
 
-#### 3.2. Relatório Analítico (Máximo 1 página – Formato PDF)
+O relatório é o documento central da avaliação. Ele **não** deve ser um tutorial passo a passo, mas sim uma **defesa técnica** estruturada.
 
-O relatório deve ser um **documento executivo**, focado em *insights* e análise, e **não** um resumo dos slides.
+> 📄 **Template Oficial:** Utilize [este modelo editável (Google Docs)](https://docs.google.com/document/d/1C19xrmer0HZ5lKIk17wehuNyPbGP3YgxxcFm-rgFPIA/edit?usp=sharing) como base para a escrita. Faça uma cópia para o seu grupo.
 
-* **Foco Principal:** Análise Crítica e Recomendações.
-* **Conteúdo Obrigatório:**
-    * Principais **Desafios** encontrados ao explorar o tema.
-    * **Análise de Resultados** da Demonstração (Números, Métricas, Comparativos).
-    * **Recomendações** claras e práticas para uma equipe de QA baseadas nos achados do projeto.
-* **Formatação:** Fonte de fácil leitura (Ex: Arial 10pt ou similar), margens normais. **Limite estrito de 1 página**.
+* **Formatação:** PDF, Fonte legível (Arial/Roboto 10pt+).
+* **Tamanho:** Máximo de **4 páginas** (Foco em síntese e gráficos).
+* **Guia de Estrutura (O que escrever em cada seção):**
+
+> **I. Contexto, Problema e Hipótese**
+> * **O Cenário:** Situe o tema (Ex: "Testes em React Native").
+> * **A Dor:** Qual problema a técnica tradicional causa? (Ex: "Lentidão", "Manutenção cara", "Flakiness").
+> * **A Hipótese:** O que a nova técnica promete resolver?
+
+> **II. Arquitetura e Conceito Técnico**
+> * **Mecânica:** Explique como a ferramenta/padrão funciona tecnicamente.
+> * **Integração:** Como isso se encaixa no fluxo de desenvolvimento?
+> * *Incluir diagrama simples da solução.*
+
+> **III. Resultados Comparativos (Evidências)**
+> * **Prova Prática:** Compare a abordagem "Tradicional" vs. "Nova Técnica".
+> * **Dados:** Traga métricas (Tempo de execução, Linhas de código economizadas, Facilidade de leitura).
+> * *Incluir prints de código "Antes vs. Depois" ou gráficos.*
+
+> **IV. Análise Crítica e Conclusão**
+> * **Ganhos Reais:** O benefício compensa o custo de implementação?
+> * **Trade-offs:** Quais as desvantagens ou dificuldades encontradas?
+> * **Veredito:** Para qual cenário vocês recomendam essa tecnologia? (Ex: "Apenas para grandes projetos").
 
 ---
 
@@ -69,7 +85,7 @@ O relatório deve ser um **documento executivo**, focado em *insights* e anális
 
 | Critério de Avaliação | Peso | Detalhes da Pontuação |
 | :--- | :--- | :--- |
-| **Aplicações Prática e Técnica** | 10 pts | Qualidade do código/scripts, uso correto das ferramentas e profundidade da solução técnica. |
-| **Profundidade Conceitual e Escopo** | 10 pts | Aderência a um tema avançado de QA Mobile e como a solução se encaixa em uma arquitetura de QA moderna. |
-| **Qualidade da Comunicação (Relatório e Apresentação)** | 5 pts | Clareza, concisão e foco na **Análise Crítica** no Relatório e Apresentação. Rigor no cumprimento do tempo. |
-| **Trabalho em Grupo e Dedicação** | 5 pts | Demonstração de coesão, divisão de tarefas e dedicação ao longo da semana (avaliado pelo entregável do Dia 1). |
+| **Aplicação Prática e Técnica** | 10 pts | Qualidade da POC (Prova de Conceito), funcionamento do código e corretude técnica da implementação. |
+| **Profundidade Conceitual (Relatório)** | 10 pts | Capacidade de preencher as 4 seções do relatório com dados reais e análise madura (fugindo do senso comum). |
+| **Qualidade da Comunicação (Apresentação)** | 5 pts | Clareza, *storytelling*, qualidade visual dos slides e rigor no cumprimento do tempo (10-12 min). |
+| **Trabalho em Grupo e Processo** | 5 pts | Coesão da equipe e divisão clara de responsabilidades (avaliado durante o desenvolvimento e apresentação). |
