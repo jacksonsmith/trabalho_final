@@ -13,7 +13,7 @@ O objetivo é que os grupos explorem um **tópico moderno e complexo de QA Mobil
 | **Duração** | 1 Semana de Projeto (Exigência: **8-10 horas de dedicação por membro**). |
 | **Entrega** | Relatório Executivo (PDF) + Artefatos Técnicos (Código/Demonstração) + Apresentação (Slides). |
 | **Objetivo** | Demonstrar conhecimento aprofundado e capacidade de aplicação prática do tema escolhido, com foco em uma **arquitetura de QA moderna e escalável**. |
-| **Tópico** | Deve ser um tema avançado de QA Mobile (Ex: Testes de Performance em Dispositivos, Contrato de Testes em Microservices, Monitoramento de Qualidade em Produção, etc.). |
+| **Tópico** | [Tópicos](https://docs.google.com/spreadsheets/d/1mwFrDXW_IOEGUI_am_KuJoRqLjra9bn3K45mTqRZZkA/edit?gid=1933368385#gid=1933368385) |
 
 ---
 
@@ -30,9 +30,6 @@ Este cronograma é um guia para otimizar o tempo e garantir entregas de alta qua
 | **Dia 7** | **Revisão Final e Entrega** | Submissão de todos os artefatos nos canais indicados. |
 
 > **Nota:** É crucial que o grupo compreenda a importância da fase de *Setup* e *Análise*, não apenas da execução. 
-
-[Image of the Software Testing Life Cycle]
-
 
 ---
 
