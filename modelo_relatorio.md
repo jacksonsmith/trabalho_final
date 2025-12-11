@@ -24,7 +24,7 @@ O projeto demonstrou a integração do RNTL em um fluxo de CI/CD para uma aplica
 
 ---
 
-### 3. 📊 Análise de Resultados da Demonstração
+### 3. 📊 Análise de Resultados da Demonstração (Se necessário)
 
 | Métrica | Testes E2E Tradicionais (Appium) | Testes de Integração (RNTL) | Comparativo (RNTL vs. E2E) |
 | :--- | :--- | :--- | :--- |
